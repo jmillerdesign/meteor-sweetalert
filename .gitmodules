@@ -1,3 +1,3 @@
-[submodule "sweetalert"]
+[submodule "jmiller-sweetalert"]
 	path = sweetalert
-	url = https://github.com/t4t5/sweetalert.git
+	url = git@github.com:jmillerdesign/sweetalert.git
