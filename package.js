@@ -1,5 +1,5 @@
 Package.describe({
-    name: 'jmillerdesign:sweetalert',
+    name: 'jmiller:sweetalert',
     summary: "a beautiful replacement for javascript's alert() ",
     version: '0.4.1',
     git: 'https://github.com/jmillerdesign/meteor-sweetalert.git',
